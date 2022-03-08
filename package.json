@@ -4,10 +4,10 @@
   "description": "TypeScript 101",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc",
+    "tsc" : "tsc",
     "tsc:w": "tsc --watch",
     "http-server": "npx http-server ./ -o"
-  },
+    },
   "keywords": [
     "Demos"
   ],
